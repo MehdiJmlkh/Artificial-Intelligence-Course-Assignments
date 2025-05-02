@@ -1,5 +1,6 @@
 # Artificial Intelligence Course Assignments
 
+
 ## CA1: Genetic Algorithm ([Curve Fitting](https://en.wikipedia.org/wiki/Curve_fitting))
 
 This project addresses the problem of curve fitting, where the objective is to determine the coefficients of a polynomial that best fits a set of given points. For example, consider the following points:
